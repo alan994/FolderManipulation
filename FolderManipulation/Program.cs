@@ -17,7 +17,7 @@ namespace FolderManipulation
 			//CreateEmptyFolders();
 			//RenameFolders();
 			//RenameMoviesFolderToContainYear();
-			MoveSeriesInPropriateFolders();
+			//MoveSeriesInPropriateFolders();
 		}
 
 		private static void RenameMoviesFolderToContainYear()
